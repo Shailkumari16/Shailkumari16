@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shailkumari16
-- 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning Python and ML
-- 💞️ I’m looking to collaborate on Python and ML Projects
-- 📫 How to reach me shailk828113@gmail.com
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on Python 
+- 📫 How to reach me 
 
 <!---
 Shailkumari16/Shailkumari16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
